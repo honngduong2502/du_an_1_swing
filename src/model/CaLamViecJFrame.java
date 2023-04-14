@@ -95,6 +95,10 @@ public class CaLamViecJFrame extends javax.swing.JFrame {
         Cursor cursor = new Cursor(Cursor.DEFAULT_CURSOR);
         b.setBackground(c);
         b.setCursor(cursor);
+        
+        
+        
+        
     }
 
     public String cutTime(String s, JComboBox cbo) {
